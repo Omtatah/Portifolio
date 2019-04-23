@@ -42,6 +42,6 @@ You can see in my own project.
 
 #### License Information and Copyright
 This repositry is also used to make the to be licensed by **MIT LICENSES**
-Copyright &@copy
+
  
 --- 
