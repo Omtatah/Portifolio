@@ -31,12 +31,12 @@ Portfolio|landing|END
 
 ---
 
-####Tec Used:
+#### Tec Used:
 HTML is used to make the Portfolio look much more beautiful and that is why i was able to display the landing page.
 You will also need bootstrap to make the project look much more beautiful and have beautiful content too.
 I have used Css too to make the the projects have boarders and also have many different classes.
 You can see in my own project.
-<a href="https://estonkaranja.github.io/Portfolio </a>.
+"https://estonkaranja.github.io/Portfolio"
          
 ---
 
