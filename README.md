@@ -3,19 +3,19 @@ Portfolio
 
 ---
 
-####Project Description.
+#### Project Description.
 The project is made for making my landing page that is Portfolio...The project will be able to help us in
 knowing the kind of portfolio that is bein started.
 
 ---
 
-####Authors Information.
+#### Authors Information.
 You can be able to get the Authors of other Portfolio through the Github.com which is made through the internet
 so you have to connect to internet.
 
 ---
 
-####Setup Information:
+#### Setup Information:
 **HTML**
 **CSS**
 **JAVASCRIPTS**
@@ -24,7 +24,7 @@ so you have to connect to internet.
 
 ---
 
-####BDD
+#### BDD
 Behaviour|Input|Output
 ---------|-----|-----
 Portfolio|landing|END
@@ -40,8 +40,8 @@ You can see in my own project.
          
 ---
 
-####License Information and Copyright
+#### License Information and Copyright
 This repositry is also used to make the to be licensed by **MIT LICENSES**
-Copyright &copy
+Copyright &@copy
  
 --- 
